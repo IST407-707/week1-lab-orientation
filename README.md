@@ -21,7 +21,7 @@ Setting up GitHub access from Colab
 
 In order to access Git repositories, in particular private ones like you are using in this class, you need to allow Colab to access the repositories. To set this up, make sure you are logged in to your google account (I recommend using your SU g-suite account, that is `<netid>@g.syr.edu`. Then, follow the steps below.
 
-1.  Go to the `main Google Colab page <https://colab.research.google.com/>`_. You will get a splash page that looks like this.
+1.  Go to the main Google Colab page <https://colab.research.google.com/>. You will get a splash page that looks like this.
 
 ![Colab splash screen](/colab_splash.png)
 
@@ -41,7 +41,7 @@ After you have made changes to your notebook, you can commit and push them to th
 Chrome plug-in for quick access
 -------------------------------
 
-If you use Chrome as your browser, there is a convenient `plug-in called Open in Colab <https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo>`_ that allows you to open a notebook from any GitHub page in Colab. So, after installing the plugin, if you are on the webpage of your team's repository, you can click the icon next to the address bar in your Chrome browser and the notebook will open in Colab. You can then proceed to push the notebook back to the repository after making your changes as described above.
+If you use Chrome as your browser, there is a convenient plug-in called [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) that allows you to open a notebook from any GitHub page in Colab. So, after installing the plugin, if you are on the webpage of your repository, you can click the icon next to the address bar in your Chrome browser and the notebook will open in Colab. You can then proceed to push the notebook back to the repository (using the `Save a copy in GitHub` method above after making your changes as described above.
 
 # :wave: The Basics of GitHub 
 
