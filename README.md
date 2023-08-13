@@ -29,7 +29,7 @@ In order to access Git repositories, in particular private ones like you are usi
 
 2.  Click the checkbox for including private repos.
 3.  An authorization window from GitHub will pop up. (Make sure you are not blocking pop-up windows.) You should authorize Colab to access the IST407-707 organization and your repositories.
-4.  Under where it says "Enter a GitHub URL or search by organization or user," search for your assignment's repository name, such as ``06-bebi103a-2021`` if you are on team 6. Underneath the search bar, you will have a pulldown menu of available notebooks. Select the one you want to work on.
+4.  Under where it says "Enter a GitHub URL or search by organization or user," search for your assignment's repository name, such as ``ist407-707/week1-lab-starter-course-<github username>``, replacing `<github-username>` with your actual username. Underneath the search bar, you will have a pulldown menu of available notebooks. Select the one you want to work on.
 
 
 Pushing your notebook to the repository
@@ -47,7 +47,7 @@ If you use Chrome as your browser, there is a convenient plug-in called [Open in
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
 
@@ -133,13 +133,6 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
-
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
