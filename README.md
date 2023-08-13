@@ -4,6 +4,7 @@ Welcome to your first lab assignment! The aim of this assigment is just to help 
 
 1. Review the following instructional materials about GitHub and Google Colab.  If you're a seasoned GitHub / Colab user, you can skip this step!
 2. Add the following image file to your repository Create a new markdown file named `submission.md`, give it a nice title, like "Hello IST 707!" and place a link to the following image inside it.  *Figure out how to show an image in your own repository.* The link should be to the file in your repository, and **not** the remote (wikimedia) location.
+
    ![Wikimedia commons image explaining the difference between supervised and unsupervised ML](https://upload.wikimedia.org/wikipedia/commons/b/b8/Supervised_and_unsupervised_machine_learning.webp)
 
 3. Open "HelloWorld.ipynb" in google colab an run the first cell.  Save your result back into your repo.
