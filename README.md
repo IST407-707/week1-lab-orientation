@@ -22,11 +22,7 @@ Setting up GitHub access from Colab
 In order to access Git repositories, in particular private ones like you are using in this class, you need to allow Colab to access the repositories. To set this up, make sure you are logged in to your google account (I recommend using your SU g-suite account, that is `<netid>@g.syr.edu`. Then, follow the steps below.
 
 1.  Go to the `main Google Colab page <https://colab.research.google.com/>`_. You will get a splash page that looks like this.
-
-   .. image:: colab_splash.png
-     :width: 500
-     :align: center
-     :alt: Google Colab splash page
+  ![](colab_splash.png | width=500)
 
    Click on the "GitHub" tab of the orange bar.
 
