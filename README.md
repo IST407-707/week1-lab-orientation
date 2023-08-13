@@ -1,6 +1,6 @@
 # Assignment Instructions
 
-Welcome to your first lab assignment! The aim of this assigment is just to help you get familiar with GitHub and it's integration with Google Colab.  To complete this assignment, you have four tasks.
+Welcome to your first lab assignment! The aim of this assigment is just to help you get familiar with GitHub and its integration with Google Colab.  To complete this assignment, you have four tasks.
 
 1. Review the following instructional materials about GitHub.  If you're a seasoned GitHub user, you can skip this step!
 2. Add the following image file to your repository Create a new markdown file named `submission.md`, give it a nice title, like "Hello IST 707!" and place a link to an image inside it.
