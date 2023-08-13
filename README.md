@@ -4,7 +4,7 @@ Welcome to your first lab assignment! The aim of this assigment is just to help 
 
 1. Review the following instructional materials about GitHub.  If you're a seasoned GitHub user, you can skip this step!
 2. Add the following image file to your repository Create a new markdown file named 'submission.md' and place a link to an image inside it.
-   ![Wikimedia commons image explaining the difference between supervised and unsupervised ML](https://upload.wikimedia.org/wikipedia/commons/b/b8/Supervised_and_unsupervised_machine_learning.webp])
+   ![Wikimedia commons image explaining the difference between supervised and unsupervised ML](https://upload.wikimedia.org/wikipedia/commons/b/b8/Supervised_and_unsupervised_machine_learning.webp)
 
 # :wave: The Basics of GitHub 
 
