@@ -22,13 +22,14 @@ Setting up GitHub access from Colab
 In order to access Git repositories, in particular private ones like you are using in this class, you need to allow Colab to access the repositories. To set this up, make sure you are logged in to your google account (I recommend using your SU g-suite account, that is `<netid>@g.syr.edu`. Then, follow the steps below.
 
 1.  Go to the `main Google Colab page <https://colab.research.google.com/>`_. You will get a splash page that looks like this.
-  ![](colab_splash.png | width=500)
+
+![Colab splash screen](/colab_splash.png)
 
    Click on the "GitHub" tab of the orange bar.
 
 2.  Click the checkbox for including private repos.
-3.  An authorization window from GitHub will pop up. (Make sure you are not blocking pop-up windows.) You should authorize Colab to access the bebi103 organization and your repositories.
-4.  Under where it says "Enter a GitHub URL or search by organization or user," search for your team's repository name, such as ``06-bebi103a-2021`` if you are on team 6. Underneath the search bar, you will have a pulldown menu of available notebooks. Select the one you want to work on.
+3.  An authorization window from GitHub will pop up. (Make sure you are not blocking pop-up windows.) You should authorize Colab to access the IST407-707 organization and your repositories.
+4.  Under where it says "Enter a GitHub URL or search by organization or user," search for your assignment's repository name, such as ``06-bebi103a-2021`` if you are on team 6. Underneath the search bar, you will have a pulldown menu of available notebooks. Select the one you want to work on.
 
 
 Pushing your notebook to the repository
