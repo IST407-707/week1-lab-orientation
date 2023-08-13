@@ -7,6 +7,8 @@ Welcome to your first lab assignment! The aim of this assigment is just to help 
    ![Wikimedia commons image explaining the difference between supervised and unsupervised ML](https://upload.wikimedia.org/wikipedia/commons/b/b8/Supervised_and_unsupervised_machine_learning.webp)
 
 3. Clone this repo into Google Colab.  Once there, edit the "HelloWorld.ipynb" file on google colab an run the first cell.  You should get a simple plot.
+  <a href="https://colab.research.google.com/github/ist407-707/github-starter-course/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (recommended)
+
 4. Commit and push your changes.
 
 That's it!  
