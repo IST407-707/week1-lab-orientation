@@ -1,1 +1,1 @@
-![My great image](/assets/colab_splash.png)
+![My great image](image.webp)
