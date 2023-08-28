@@ -1,1 +1,1 @@
-![My great image](assets/image.webp)
+![My great image](/assets/image.webp)
